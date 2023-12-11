@@ -1,1 +1,1 @@
-# Discord-Bot-Login-Simple
+# Discord-JS-Bot-Login-Simple
