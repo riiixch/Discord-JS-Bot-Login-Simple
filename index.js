@@ -1,9 +1,6 @@
 const { Client, GatewayIntentBits, Partials } = require('discord.js');
 const { token } = require('./config.js');
-
-function log(x) {
-    return console.log(x)
-}
+const { log } = require('./function.js');
 
 const client = new Client({
   failIfNotExists: true,
